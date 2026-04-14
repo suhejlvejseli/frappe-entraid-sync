@@ -4,7 +4,7 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name="test_app",
+    name="frappe-entraid-sync",
     version="0.0.1",
     description="A simple test app for Frappe",
     long_description=long_description,
